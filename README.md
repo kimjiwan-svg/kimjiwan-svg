@@ -4,7 +4,7 @@ My name : Kim JiWan
 Birth : secret
 MBTI : ENFP
 Hobby : soccer, game
-Level: 0 (baby)
+Level: 0
 
 <!--
 **kimjiwan-svg/kimjiwan-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
